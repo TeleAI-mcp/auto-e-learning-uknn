@@ -1,2 +1,3 @@
-# auto-e-learning-uknn
-Automated issue comment bot repository
+# Auto E Learning Uknn
+
+Automated issue comment bot repository.
